@@ -1,0 +1,181 @@
+US - US
+Liechtenstein - LI
+Czechia - CZ
+Andorra - AD
+Congo (Kinshasa) - CD
+Poland - PL
+Hungary - HU
+Bahamas - BS
+Guatemala - GT
+Kyrgyzstan - KG
+Sierra Leone - SL
+Korea, South - KR
+Uganda - UG
+Cabo Verde - CV
+Nigeria - NG
+Australia - AU
+Malta - MT
+Mauritania - MR
+Egypt - EG
+Ethiopia - ET
+MS Zaandam - XX
+United Kingdom - GB
+Eswatini - SZ
+Somalia - SO
+Luxembourg - LU
+Algeria - DZ
+Azerbaijan - AZ
+Diamond Princess - XX
+Barbados - BB
+Kuwait - KW
+North Macedonia - MK
+Colombia - CO
+Angola - AO
+Denmark - DK
+Philippines - PH
+Seychelles - SC
+Russia - RU
+China - CN
+Cuba - CU
+Peru - PE
+Finland - FI
+Costa Rica - CR
+Latvia - LV
+Papua New Guinea - PG
+El Salvador - SV
+Jordan - JO
+Suriname - SR
+Trinidad and Tobago - TT
+Bulgaria - BG
+Netherlands - NL
+Fiji - FJ
+Niger - NE
+Bhutan - BT
+Mexico - MX
+Argentina - AR
+Montenegro - ME
+Honduras - HN
+Croatia - HR
+Morocco - MA
+Nepal - NP
+Rwanda - RW
+Zambia - ZM
+Benin - BJ
+Qatar - QA
+Burkina Faso - BF
+Botswana - BW
+Central African Republic - CF
+Bangladesh - BD
+Dominican Republic - DO
+South Africa - ZA
+Bahrain - BH
+Cambodia - KH
+Sudan - SD
+Equatorial Guinea - GQ
+Antigua and Barbuda - AG
+Oman - OM
+Gambia - GM
+Kazakhstan - KZ
+Saint Vincent and the Grenadines - VC
+San Marino - SM
+Burundi - BI
+Estonia - EE
+Nicaragua - NI
+Saudi Arabia - SA
+Jamaica - JM
+Slovakia - SK
+Georgia - GE
+Romania - RO
+West Bank and Gaza - PS
+Madagascar - MG
+Brunei - BN
+Bosnia and Herzegovina - BA
+Guinea - GN
+Pakistan - PK
+Haiti - HT
+Ghana - GH
+Senegal - SN
+Switzerland - CH
+Cameroon - CM
+Eritrea - ER
+Serbia - RS
+Japan - JP
+Togo - TG
+Libya - LY
+Maldives - MV
+Dominica - DM
+Ireland - IE
+Burma - MM
+Cyprus - CY
+Zimbabwe - ZW
+Venezuela - VE
+Liberia - LR
+Grenada - GD
+Malawi - MW
+France - FR
+New Zealand - NZ
+Portugal - PT
+Uzbekistan - UZ
+Canada - CA
+Austria - AT
+Bolivia - BO
+Iraq - IQ
+India - IN
+Slovenia - SI
+Mauritius - MU
+Afghanistan - AF
+Timor-Leste - TL
+Mozambique - MZ
+Congo (Brazzaville) - CG
+Lithuania - LT
+Iceland - IS
+Syria - SY
+Saint Kitts and Nevis - KN
+Vietnam - VN
+Panama - PA
+Moldova - MD
+Mali - ML
+Iran - IR
+Tanzania - TZ
+Holy See - VA
+Chad - TD
+Ukraine - UA
+Indonesia - ID
+United Arab Emirates - AE
+Greece - GR
+Namibia - NA
+Chile - CL
+Brazil - BR
+Armenia - AM
+Gabon - GA
+Paraguay - PY
+Cote d'Ivoire - CI
+Laos - LA
+Ecuador - EC
+Italy - IT
+Guyana - GY
+Belize - BZ
+Norway - NO
+Singapore - SG
+Spain - ES
+Sri Lanka - LK
+Mongolia - MN
+Albania - AL
+Kenya - KE
+Belarus - BY
+Thailand - TH
+Djibouti - DJ
+Uruguay - UY
+Turkey - TR
+Kosovo - XK
+Guinea-Bissau - GW
+Israel - IL
+Malaysia - MY
+Lebanon - LB
+Tunisia - TN
+Belgium - BE
+Germany - DE
+Sweden - SE
+Monaco - MC
+Taiwan* - TW
+Saint Lucia - LC
