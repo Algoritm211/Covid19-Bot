@@ -11,13 +11,15 @@ from pprint import pprint
 import dbhelper
 import graphic
 import news
+import os
+from config import TOKEN, APP_NAME
 
 covid19 = COVID19Py.COVID19()
 all = covid19.getLocations()
 
-TOKEN = '1238472466:AAHID6pAsnLcFXqL5cozSjst-tp5bTpow2I'
+TOKEN = TOKEN
 bot = telebot.TeleBot(TOKEN)
-APP_NAME = 'calm-basin-57295'
+APP_NAME = APP_NAME
 keyboard_1 = types.ReplyKeyboardMarkup(True, True)
 keyboard_1.row('🌍Весь мир🌍', '📰Новости📰')
 keyboard_1.row('🔝ТОП-10 стран🔝', '⚙Мои страны⚙')
